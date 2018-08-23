@@ -4,7 +4,7 @@ Trigger Word Is Defined "kral" On This Source.
 
 This Is For Send Private Messages To Users.
 
-![alt text](https://memoryhackers.net/attachments/1534982995489-png.10301/)
+![alt text](https://i.hizliresim.com/0zgv09.png)
 
 Logging System Included.
 
